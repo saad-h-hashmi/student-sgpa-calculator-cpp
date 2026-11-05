@@ -1,0 +1,5 @@
+build/
+*.exe
+*.out
+student_gpas.txt
+*.o

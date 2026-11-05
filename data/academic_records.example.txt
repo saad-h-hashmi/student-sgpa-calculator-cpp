@@ -1,0 +1,20 @@
+# Synthetic demonstration data. No real student identifiers or grades are used.
+Student: Demo Student One (DEMO-001), Semester: Example Semester
+Subject: Programming Fundamentals (CS101), Credit Hours: 3
+  Final: 34/40
+  Mid: 18/20
+  Lab: 18/20
+  Total: 132/160
+
+Subject: Discrete Mathematics (MA102), Credit Hours: 3
+  Final: 32/40
+  Mid: 16/20
+  Lab: 17/20
+  Total: 125/160
+
+Student: Demo Student Two (DEMO-002), Semester: Example Semester
+Subject: Database Systems (CS201), Credit Hours: 4
+  Final: 36/40
+  Mid: 17/20
+  Lab: 19/20
+  Total: 140/160
